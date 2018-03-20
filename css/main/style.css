@@ -199,7 +199,7 @@ nav .tabs {
 
 /*****CARDS EVENTOS*****/
 #eventos .card-content {
-  font-size: 16px; }
+  font-size: 50px; }
   #eventos .card-content .topico-info {
     font-weight: 500; }
   #eventos .card-content .dropdown-button {
